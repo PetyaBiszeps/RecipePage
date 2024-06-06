@@ -1,0 +1,14 @@
+:root{
+    --ff-headers: 'Young Serif', serif;
+    --ff-primary: 'Outfit', sans-serif;
+
+    --ff-heading: var(--ff-headers), serif;
+    --ff-body: var(--ff-primary), sans-serif;
+
+    font-size: 16px;
+
+    /*
+    Font: Young Serif --- Weights: 400
+    Font: Outfit --- Weights: 400, 600, 700
+     */
+}
