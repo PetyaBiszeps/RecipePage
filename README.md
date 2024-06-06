@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Link
 
-Live Site Link: 
+Live Site Link: https://petyabiszeps.github.io/RecipePage/
 
 ### Author
 
